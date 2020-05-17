@@ -1,6 +1,6 @@
 # Real-emoji-vue
 
-Demo [here](https://real-emoji.netlify.com/)
+Demo [here](https://vue-affdex-emotion.firebaseapp.com)
 
 This project showcase a real time emotion detection, where we try to detect the following features from the face:
 
